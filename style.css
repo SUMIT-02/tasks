@@ -66,6 +66,8 @@ body {
 }
 
 .copyright {
+  color: #00000066;
+  font-weight: 40%;
   text-align: right;
   margin-top: 10px;
 }
